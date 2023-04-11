@@ -1,7 +1,7 @@
 ---
 title: 如何使用国外app
 description: 带你前往外面的世界
-date: 2023-04-011 17:16:32 +0800
+date: 2023-04-11 17:16:32 +0800
 slug: zcloud_doc
 image: 17.png
 categories:
